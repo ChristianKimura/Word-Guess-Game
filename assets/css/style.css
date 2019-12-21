@@ -1,0 +1,21 @@
+#titleImage {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: none;
+}
+
+body {
+    background: url(../images/4k-wallpaper-architecture-background-1308624.jpg);
+
+}
+
+h1, h3 {
+    color: white;
+}
+
+#greatestHits {
+    text-align: center;
+
+}
